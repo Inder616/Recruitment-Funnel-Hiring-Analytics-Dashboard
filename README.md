@@ -151,7 +151,7 @@ Built by **[@Inder616](https://github.com/Inder616)**. Feedback and suggestions 
 
 <!-- Replace YOUR-LINKEDIN-ID below with your LinkedIn profile ID -->
 [![GitHub](https://img.shields.io/badge/GitHub-Inder616-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Inder616)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](www.linkedin.com/in/inder-sinha)
 
 ---
 
